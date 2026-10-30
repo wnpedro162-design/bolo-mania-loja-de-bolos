@@ -210,10 +210,7 @@ CREATE TABLE `usuario` (
 -- Extraindo dados da tabela `usuario`
 --
 
-INSERT INTO `usuario` (`id`, `nome`, `email`, `senha`, `perfil`, `ativo`) VALUES
-(1, 'Laura', 'laurinha1@gmail.com', '$2y$10$D2KkYXTKRb8ZNF2YMtXcpukmx5DCzmH/f7G44HgiTBoEf0.PMN3DK', 'vendedor', 1),
-(2, 'Amanda', 'amandaramossoares1@gmail.com', '$2y$10$lEGGxijfdNrt8NqafmgOYONZqhHHSvDUM2WNhCC/asTQ9zZ4svy2a', 'admin', 1),
-(4, 'Victória', 'trabalhosoficial9@gmail.com', '$2y$10$HZFXFHnjeBOg2.IXtwEmJutyeDu91AU9kHULq1Xk3VEYq6LhphSty', 'admin', 1);
+
 
 -- --------------------------------------------------------
 
